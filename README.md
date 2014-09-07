@@ -1,3 +1,3 @@
 Something New
 ====
-This is a super crazy hotfix!
+This is super crazy cool!
